@@ -1,5 +1,27 @@
+#containerDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 150px;
+}
+
+
+
+
+#homeSquare{
+  background-color: #f7e2b9;
+  width: 400px;
+  height: 600px;
+  color: black;
+  flex: center;
+  border-color: black;
+  margin: 0 auto;
+}
+
 .App {
   text-align: center;
+  margin: auto;
 }
 
 .App-logo {
