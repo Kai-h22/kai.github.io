@@ -6,8 +6,10 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div id="containerDiv">
-          <div id="homeSquare">
+        <div className="containerDiv">
+          <div id="homeSquare" className="containerDiv">
+            <div className="homeCardDiv">
+            </div>
           </div>
         </div>
       </div>

@@ -1,4 +1,4 @@
-#containerDiv {
+.containerDiv {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,8 +11,8 @@
 
 #homeSquare{
   background-color: #f7e2b9;
-  width: 400px;
-  height: 600px;
+  width: 200px;
+  height: 550px;
   color: black;
   flex: center;
   border-color: black;
